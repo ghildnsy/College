@@ -1,2 +1,2 @@
 # Pemrograman Lanjut
-All project in Pemrogranab Lanjut course
+All project in Pemrogranan Lanjut course
