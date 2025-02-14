@@ -1,2 +1,2 @@
-# PemLan
-All project in PemLan course
+# Pemrograman Lanjut
+All project in Pemrogranab Lanjut course
