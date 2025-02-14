@@ -1,0 +1,1235 @@
+[
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 10,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Tidak"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 17,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 12,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Ya",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Tidak",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 19,
+    "Jenis Kelamin": "Perempuan",
+    "Kelas": 11,
+    "Tempat Tinggal": "Perkotaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  },
+  {
+    "Umur": 18,
+    "Jenis Kelamin": "Laki-laki",
+    "Kelas": 11,
+    "Tempat Tinggal": "Pedesaan",
+    "Gunakan HP": "Ya",
+    "Gunakan Laptop": "Tidak",
+    "Akses Internet": "Ya"
+  }
+]
