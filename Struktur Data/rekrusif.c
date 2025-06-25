@@ -17,4 +17,3 @@ int main()
     printf("Hasil %d! = %d\n", N, faktorial(N));
     return 0;
 }
--
