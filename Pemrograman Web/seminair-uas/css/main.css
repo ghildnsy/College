@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background: linear-gradient(135deg, #0f172a, #1e293b);
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  scroll-behavior: smooth;
+}
+
+.text-head {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.text-body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.text-paragraph {
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.main {
+  color: #fffffe;
+}
+
+.stroke {
+  color: #2b2c34;
+}
+
+.hightlight {
+  color: #6246ea;
+}
+
+.btn-hightlight {
+  background-color: #6246ea;
+}
+
+.secondary {
+  color: #d1d1e9;
+}
+
+.tertiary {
+  color: #e45858;
+}
+
+.btn-tertiary {
+  background-color: #e45858;
+}
+
+/* navbar active */
+
+.nav-link.active-page {
+  color: #ffffff !important; /* Bootstrap primary blue */
+}
