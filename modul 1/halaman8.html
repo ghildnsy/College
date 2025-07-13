@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pemrograman Web D - Ghildan Syarif A</title>
+</head>
+<body>
+    <form name="form1" method="post" action="aksi.php">
+        <h2>Sign Up</h2>
+
+        <fieldset>
+            <legend>Informasi Pribadi</legend>
+                <label for="nama">Nama</label><input type="text" name="nama"/><br>
+                <label for="email">Email</label><input type="email" name="email"/><br>
+        </fieldset>
+        
+        <fieldset>
+            <legend>Alamat</legend>
+                <label for="address">Alamat</label><textarea name="alamat" cols="30" rows="5"></textarea><br>
+                <label for="kota">Kota</label>
+                <select id="kota" name="kota">
+                    <optgroup label="Jawa">
+                        <option value="jakarta">Jakarta</option>
+                        <option value="bandung">Bandung</option>
+                    </optgroup>
+                    <optgroup label="Sumatra">
+                        <option value="medan">Medan</option>
+                        <option value="palembang">Palembang</option>
+                    </optgroup>
+                    <optgroup label="Kalimantan">
+                        <option value="bontang">Bontang</option>
+                        <option value="pontianak">Pontianak</option>
+                    </optgroup>
+                </select><br>
+        </fieldset>
+        
+        <fieldset>
+            <legend>Kontrol</legend>
+            <button type="submit">Submit</button>
+            <button type="reset">Reset</button>
+        </fieldset>
+        
+    </form>
+</body>
+</html>
