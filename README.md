@@ -1,3 +1,3 @@
 # COLLAGE
 
-all small projects done in the collage
+small projects carried out at the college
