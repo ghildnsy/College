@@ -1,3 +1,3 @@
 # COLLAGE
 
-all projects done in the collage
+all small projects done in the collage
