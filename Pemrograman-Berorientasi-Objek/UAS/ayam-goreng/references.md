@@ -1,1 +1,0 @@
-1. [texhow to make classes and header filest](https://www.learncpp.com/cpp-tutorial/classes-and-header-files/)

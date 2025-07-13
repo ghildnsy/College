@@ -1,5 +1,0 @@
-1,Dada,19,18000
-2,Sayap,25,15000
-3,Paha Bawah,18,17000
-4,Nasi Putih,50,6000
-5,Air Botol,40,5000

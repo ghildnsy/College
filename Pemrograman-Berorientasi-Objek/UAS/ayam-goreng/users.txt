@@ -1,4 +1,0 @@
-1,admin,admin123,Admin,ADM01
-2,kasir,kasir123,Kasir,KSR01
-3,thery,123,Pelanggan,therych
-4,iyoo,123,Pelanggan,gabrielle
