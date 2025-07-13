@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tentang Kami - Tried and True</title>
+    <!-- CSS sama seperti halaman utama -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #7d4e57;
+            --secondary-color: #f8e5b9;
+            --accent-color: #d96f85;
+            --dark-color: #37323e;
+            --light-color: #f4f4f2;
+        }
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            color: var(--dark-color);
+            background-color: var(--light-color);
+        }
+
+        #scrollProgress {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 5px;
+            background-color: var(--secondary-color);
+            width: 0%;
+            z-index: 9999;
+        }
+
+        /* Title */
+        h2 {
+            font-weight: 800;
+            font-size: 2.4rem;
+            background: linear-gradient(to right, #d96f85, #9B59B6);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            color: transparent;
+        }
+        
+        /* Navbar Section */
+        .navbar {
+            background-color: var(--primary-color);
+        }
+        
+        .navbar-brand {
+            font-weight: 700;
+            color: var(--secondary-color) !important;
+        }
+        
+        .nav-link {
+            color: var(--light-color) !important;
+        }
+
+        .nav-link:hover {
+        color: var(--secondary-color) !important;
+        }
+
+        .nav-link.active {
+            color: var(--secondary-color) !important;
+        }
+
+        /* Card */
+        .card {
+            border: none;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .section-title {
+            position: relative;
+            margin-bottom: 30px;
+            color: var(--primary-color);
+        }
+        
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 0;
+            width: 50px;
+            height: 3px;
+            background-color: var(--accent-color);
+        }
+
+        .feature-box {
+            padding: 30px;
+            border-radius: 10px;
+            background-color: white;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .feature-icon {
+            color: var(--accent-color);
+            font-size: 40px;
+            margin-bottom: 20px;
+        }
+
+                /* Footer Section */
+                footer {
+            background-color: var(--dark-color);
+            color: var(--light-color);
+            padding: 50px 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Csroll Bar -->
+    <div id="scrollProgress"></div>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <img src="./assets/icon/T&T.png" width="110" alt="T&T logo">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="produk.html">Produk</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="tentang.html">Tentang Kami</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="panduan.html">Panduan Ukuran</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="kontak.html">Kontak</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <section class="py-5">
+        <div class="container">
+            <h2 class="section-title mb-5">Tentang Tried and True</h2>
+            
+            <div class="row align-items-center mb-5">
+                <div class="col-md-4">
+                    <img src="./assets/icon/T&T.png" alt="Toko Tried and True" class="img-fluid rounded">
+                </div>
+                <div class="col-md-8">
+                    <h3 class="mb-4">Cerita Kami</h3>
+                    <p>Tried and True berawal dari kecintaan kami pada fashion berkelanjutan dan keinginan untuk mengurangi dampak negatif fast fashion terhadap lingkungan.</p>
+                    <p>Didirikan pada tahun 2020, kami mulai sebagai toko kecil yang menjual pakaian bekas berkualitas secara online. Seiring berjalannya waktu, Tried and True berkembang menjadi destinasi utama bagi pecinta fashion yang peduli lingkungan.</p>
+                    <p>Kami selalu memastikan setiap produk melewati proses seleksi ketat dan pembersihan menyeluruh sebelum sampai ke tangan pelanggan.</p>
+                </div>
+            </div>
+            
+            <div class="row mt-5">
+                <div class="col-md-4 mb-4">
+                    <div class="feature-box text-center h-100">
+                        <i class="fas fa-bullseye feature-icon"></i>
+                        <h4>Visi</h4>
+                        <p>Menjadi pelopor fashion berkelanjutan dengan memperpanjang umur pakaian berkualitas dan mendukung ekonomi sirkuler.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 mb-4">
+                    <div class="feature-box text-center h-100">
+                        <i class="fas fa-rocket feature-icon"></i>
+                        <h4>Misi</h4>
+                        <p>Menyediakan pakaian bekas berkualitas dengan harga terjangkau, sambil mengedukasi masyarakat tentang dampak positif thrifting bagi lingkungan.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-4 mb-4">
+                    <div class="feature-box text-center h-100">
+                        <i class="fas fa-heart feature-icon"></i>
+                        <h4>Nilai</h4>
+                        <p>Keberlanjutan, kualitas, transparansi, dan kepuasan pelanggan menjadi nilai utama yang selalu kami junjung tinggi.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="row mt-5">
+                <div class="col-md-12">
+                    <h3 class="mb-4">Tim Kami</h3>
+                    <div class="row">
+                        <div class="col-md-4 mb-4">
+                            <div class="card text-center">
+                                <img src="./assets/img/people/ghildan.avif" class="card-img-top rounded-circle mx-auto mt-3" style="width: 150px; height: 150px;" alt="Founder">
+                                <div class="card-body">
+                                    <h5 class="card-title">Ghildan Syarif</h5>
+                                    <p class="text-muted">Founder & CEO</p>
+                                    <p class="card-text">Pencinta fashion vintage dengan pengalaman 8 tahun di industri retail fashion.</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-4 mb-4">
+                            <div class="card text-center">
+                                <img src="./assets/img/people/putra.avif" class="card-img-top rounded-circle mx-auto mt-3" style="width: 150px; height: 150px;" alt="Creative Director">
+                                <div class="card-body">
+                                    <h5 class="card-title">Putra Lintang</h5>
+                                    <p class="text-muted">Creative Director</p>
+                                    <p class="card-text">Desainer fashion dengan keahlian dalam trend forecasting dan visual merchandising.</p>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-4 mb-4">
+                            <div class="card text-center">
+                                <img src="./assets/img/people/hani.avif" class="card-img-top rounded-circle mx-auto mt-3" style="width: 150px; height: 150px;" alt="Operations Manager">
+                                <div class="card-body">
+                                    <h5 class="card-title">Hanida Arimawarti</h5>
+                                    <p class="text-muted">Operations Manager</p>
+                                    <p class="card-text">Ahli dalam manajemen rantai pasok dan kontrol kualitas produk thrifting.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+   <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-4">
+                    <h5 class="mb-3">Tried and True</h5>
+                    <p>Kami menyediakan pakaian thrift berkualitas tinggi dengan harga terjangkau. Bergaya tanpa merusak lingkungan!</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <h5 class="mb-3">Hubungi Kami</h5>
+                    <p><i class="fas fa-map-marker-alt me-2"></i> Jl. Thrifting No. 123, Jakarta</p>
+                    <p><i class="fas fa-phone me-2"></i> +62 812-3456-7890</p>
+                    <p><i class="fas fa-envelope me-2"></i> info@tried and True.com</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <h5 class="mb-3">Ikuti Kami</h5>
+                    <div class="d-flex gap-3">
+                        <a href="#" class="text-white fs-5"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="text-white fs-5"><i class="fab fa-tiktok"></i></a>
+                        <a href="#" class="text-white fs-5"><i class="fab fa-whatsapp"></i></a>
+                        <a href="#" class="text-white fs-5"><i class="fab fa-facebook"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center pt-4 mt-4 border-top border-secondary">
+                <p>&copy; 2025 Tried and True. Hak Cipta Dilindungi.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+    <script>
+        // scroll progress bar
+        window.onscroll = function () {
+        const scrollTop =
+            document.documentElement.scrollTop || document.body.scrollTop;
+        const scrollHeight =
+            document.documentElement.scrollHeight -
+            document.documentElement.clientHeight;
+        const scrolled = (scrollTop / scrollHeight) * 100;
+        document.getElementById("scrollProgress").style.width = scrolled + "%";
+        };
+    </script>
+</body>
+</html>

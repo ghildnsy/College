@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontak - Tried and True</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root {
+            --text-info-color: #7d4e57;
+            --secondary-color: #f8e5b9;
+            --accent-color: #d96f85;
+            --dark-color: #37323e;
+            --light-color: #f4f4f2;
+        }
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            color: var(--dark-color);
+            background-color: var(--light-color);
+        }
+
+        #scrollProgress {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 5px;
+            background-color: var(--secondary-color);
+            width: 0%;
+            z-index: 9999;
+        }
+
+        
+        /* Title */
+        h2 {
+            font-weight: 800;
+            font-size: 2.4rem;
+            background: linear-gradient(to right, #d96f85, #9B59B6);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            color: transparent;
+        }
+        
+        /* Navbar Section */
+        .navbar {
+            background-color: var(--text-info-color);
+        }
+        
+        .navbar-brand {
+            font-weight: 700;
+            color: var(--secondary-color) !important;
+        }
+        
+        .nav-link {
+            color: var(--light-color) !important;
+        }
+
+        .nav-link:hover {
+        color: var(--secondary-color) !important;
+        }
+
+        .btn-custom {
+            background-color: var(--accent-color);
+            color: white;
+            border: none;
+        }
+        
+        .btn-custom:hover {
+            background-color: #c45872;
+            color: white;
+        }
+
+        .nav-link.active {
+            color: var(--secondary-color) !important;
+        }
+
+        /* Footer Section */
+        footer {
+            background-color: var(--dark-color);
+            color: var(--light-color);
+            padding: 50px 0 20px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Scroll Bar -->
+    <div id="scrollProgress"></div>
+
+     <!-- Navbar -->
+     <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">
+                <img src="./assets/icon/T&T.png" width="110" alt="T&T logo">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="produk.html">Produk</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="tentang.html">Tentang Kami</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="panduan.html">Panduan Ukuran</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="kontak.html">Kontak</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    
+    <section class="py-5">
+        <div class="container">
+            <h2 class="section-title mb-5">Hubungi Kami</h2>
+            
+            <div class="row mb-5">
+                <div class="col-md-6">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h3 class="mb-4">Informasi Kontak</h3>
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="fas fa-envelope me-3 text-info fs-3"></i>
+                                <span>ghildansa@gmail.com</span>
+                            </div>
+
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="fas fa-phone me-3 text-info fs-3"></i>
+                                <span>+62 851-5678-8177</span>
+                            </div>
+
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="fas fa-clock me-3 text-info fs-3"></i>
+                                <span>Senin - Jumat: 10:00 - 21:00<br>Sabtu - Minggu: 11:00 - 22:00</span>
+                            </div>
+
+                            <div class="d-flex align-items-center mb-3">
+                                <i class="fas fa-map-marker-alt me-3 text-info fs-2"></i>
+                                <span>Jl. Thrifting No. 123, Kemang Jakarta Selatan, DKI Jakarta 12730</span>
+                            </div>
+
+                            <div>
+                                <div class="rounded-4 overflow-hidden shadow-sm flex-grow-1"
+                                    style="border: 1px solid rgba(255, 255, 255, 0.1);">
+                                    <iframe
+                                        src="https://www.google.com/maps?q=Universitas+Pembangunan+Nasional+Veteran+Jawa+Timur&output=embed"
+                                        width="100%"
+                                        height="300px"
+                                        style="border:0;"
+                                        allowfullscreen=""
+                                        loading="lazy">
+                                    </iframe>
+                                </div>
+                            </div>
+
+                            <div class="d-flex justify-content-center gap-3 mt-3">
+                                <a href="#" class="text-info fs-3"><i class="fab fa-instagram"></i></a>
+                                <a href="#" class="text-info fs-3"><i class="fab fa-tiktok"></i></a>
+                                <a href="#" class="text-info fs-3"><i class="fab fa-whatsapp"></i></a>
+                                <a href="#" class="text-info fs-3"><i class="fab fa-facebook"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-md-6">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h3 class="mb-4">Kirim Pesan</h3>
+                            <form id="contactForm">
+                                <div class="mb-3">
+                                    <label for="name" class="form-label">Nama Lengkap</label>
+                                    <input type="text" class="form-control" id="name" placeholder="Nama Lengkap Anda">
+                                </div>
+                                
+                                <div class="mb-3">
+                                    <label for="email" class="form-label">Email</label>
+                                    <input type="email" class="form-control" id="email" placeholder="email@example.com">
+                                </div>
+                                
+                                <div class="mb-3">
+                                    <label for="message" class="form-label">Pesan</label>
+                                    <textarea class="form-control" id="message" rows="12 " placeholder="Tulis pesan Anda di sini"></textarea>
+                                </div>
+                                
+                                <div class="d-flex justify-content-between">
+                                    <button type="submit" class="btn btn-custom">Kirim Pesan</button>
+                                    <button type="reset" class="btn btn-secondary">Reset</button>
+                                </div>
+                                
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+     <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-4">
+                    <h5 class="mb-3">Tried and True</h5>
+                    <p>Kami menyediakan pakaian thrift berkualitas tinggi dengan harga terjangkau. Bergaya tanpa merusak lingkungan!</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <h5 class="mb-3">Hubungi Kami</h5>
+                    <p><i class="fas fa-map-marker-alt me-2"></i> Jl. Thrifting No. 123, Jakarta</p>
+                    <p><i class="fas fa-phone me-2"></i> +62 812-3456-7890</p>
+                    <p><i class="fas fa-envelope me-2"></i> info@tried and True.com</p>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <h5 class="mb-3">Ikuti Kami</h5>
+                    <div class="d-flex gap-3">
+                        <a href="#" class="text-white fs-5"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="text-white fs-5"><i class="fab fa-tiktok"></i></a>
+                        <a href="#" class="text-white fs-5"><i class="fab fa-whatsapp"></i></a>
+                        <a href="#" class="text-white fs-5"><i class="fab fa-facebook"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center pt-4 mt-4 border-top border-secondary">
+                <p>&copy; 2025 Tried and True. Hak Cipta Dilindungi.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+    <script>
+        // Script untuk form submission
+        document.getElementById('contactForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Get form values
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const message = document.getElementById('message').value;
+            
+            // Simple validation
+            if(!name || !email || !message) {
+                alert('Mohon isi semua field yang wajib diisi!');
+                return;
+            }
+            
+            // Simulate form submission
+            alert('Terima kasih ' + name + '! Pesan Anda telah terkirim. Kami akan menghubungi Anda segera.');
+            
+            // Reset form
+            this.reset();
+        });
+        
+        // scroll progress bar
+        window.onscroll = function () {
+        const scrollTop =
+            document.documentElement.scrollTop || document.body.scrollTop;
+        const scrollHeight =
+            document.documentElement.scrollHeight -
+            document.documentElement.clientHeight;
+        const scrolled = (scrollTop / scrollHeight) * 100;
+        document.getElementById("scrollProgress").style.width = scrolled + "%";
+        };
+    </script>
+</body>
+</html>
