@@ -1,3 +1,3 @@
 # COLLAGE
 
-small projects carried out at the college
+Small projects carried out at the college
