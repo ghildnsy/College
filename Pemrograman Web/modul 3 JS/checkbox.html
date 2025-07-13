@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkbox</title>
+</head>
+<body>
+    <Script Language="Javascript">
+        function checkAll(field){
+        for (i = 0; i < field.length; i++) field[i].checked = true;
+        }
+        function uncheckAll(field){
+        for (i = 0; i < field.length; i++) field[i].checked = false;
+        }
+    </script>
+    <form name="formnya">
+        <input type="button" name="CheckAll" value="Check All"
+        onClick="checkAll (document.formnya.buah) ">
+        <input type="button" name="UnCheckAll" value="Uncheck All"
+        onClick="uncheckAll (document.formnya.buah)"><br>
+        <input type="checkbox" name="buah"/>Manggis<br>
+        <input type="checkbox" name="buah"/>Anggur<br>
+        <input type="checkbox" name="buah"/>Mangga<br>
+        <input type="checkbox" name="buah"/>Pisang<br>
+        <input type="checkbox" name="buah"/>Salak<br>
+    </form>
+</body>
+</html>

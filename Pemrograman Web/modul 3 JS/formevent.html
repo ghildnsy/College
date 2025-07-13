@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Form Event</title>
+    <script language="Javascript">
+      function calcl(form) {
+        var a = form.a.value / 100;
+        var b = a * form.b.value;
+        form.totall.value = b;
+      }
+    </script>
+  </head>
+  <body>
+    <form name="form">
+      <label>Persentase:</label>
+      <input type="text" name="a" size="5" /><br />
+
+      <label>Angka di Persentase:</label>
+      <input type="text" name="b" size="5" /><br />
+
+      <input type="button" value="Calculate" onclick="calcl(this.form)" /><br />
+
+      <label>Hasil:</label>
+      <input type="text" name="totall" size="5" maxlength="40" />
+    </form>
+  </body>
+</html>

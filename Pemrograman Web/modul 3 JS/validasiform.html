@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Validasi Form</title>
+    <link rel="stylesheet" href="style.css" />
+    <script>
+      function validateForm() {
+        var nama = document.forms["myForm"]["nama"].value;
+        var email = document.forms["myForm"]["email"].value;
+        var pesan = document.forms["myForm"]["pesan"].value;
+
+        if (nama == "") {
+          alert("Nama harus diisi!");
+          return false;
+        }
+        if (email == "") {
+          alert("Email harus diisi!");
+          return false;
+        }
+        if (pesan == "") {
+          alert("Pesan harus diisi!");
+          return false;
+        }
+        return true;
+      }
+    </script>
+  </head>
+  <body>
+    <h2>Form Validasi</h2>
+    <form name="myForm" onsubmit="return validateForm()">
+      <label for="nama">Nama:</label><br />
+      <input type="text" id="nama" name="nama" /><br />
+
+      <label for="email">Email:</label><br />
+      <input type="email" id="email" name="email" /><br />
+
+      <label for="pesan">Pesan:</label><br />
+      <textarea id="pesan" name="pesan" rows="4" cols="30"></textarea><br />
+
+      <input type="submit" value="Kirim" />
+    </form>
+  </body>
+</html>

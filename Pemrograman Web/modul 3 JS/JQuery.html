@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pengecek Bilangan Ganjil/Genap</title>
+  <!-- Script -->
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="jquery.min.js"></script>
+  <script type="text/javascript">
+    $(function () {
+      $(".cek").click(function () {
+        var tinggi = $("#bilangan").val();
+        if (tinggi % 2 == 0) {
+          alert("Bilangan " + tinggi + " Adalah Ganep");
+        } else {
+          alert("Bilangan " + tinggi + " Adalah Ganjil");
+        }
+      });
+      return false;
+    });
+  </script>
+</head>
+<body>
+  <h1>Pengecek Bilangan Ganjil/Genap</h1>
+    <form name="formSubmit">
+      <label for="bilangan">Masukkan Angka:</label>
+      <input id="bilangan" type="text" class="blue" />
+      <input type="submit" value="CEK BILANGAN" class="cek" />
+    </form>
+</body>
+</html>
