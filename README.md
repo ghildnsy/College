@@ -1,3 +1,3 @@
 # COLLEGE
 
-Small projects carried out at the college
+Tiny projects carried out at the college
